@@ -1,7 +1,8 @@
 h1,
 h3 {
   text-align: center;
-  font-family: ;
+  font-family: "Lato", sans-serif;
+  color: black;
 }
 
 body {
@@ -12,6 +13,7 @@ body {
   background-color: white;
   width: 50%;
   margin: 10px auto;
-  border: solid black;
+  border: solid white;
   padding: 10px;
+  border-radius: 10px;
 }
