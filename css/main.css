@@ -13,7 +13,7 @@ body {
   background-color: white;
   width: 50%;
   margin: 10px auto;
-  border: solid white;
+  border: 1px solid white;
   padding: 10px;
   border-radius: 10px;
 }
@@ -25,4 +25,12 @@ body {
 .information p,
 ul {
   font-family: "Manrope", sans-serif;
+}
+
+.contact-info {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
 }
