@@ -87,3 +87,14 @@ img {
     border-bottom: none;
   }
 }
+
+.xp {
+  font-family: "Lato", sans-serif;
+
+  background-color: white;
+  width: 50%;
+  margin: 10px auto;
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 10px;
+}
