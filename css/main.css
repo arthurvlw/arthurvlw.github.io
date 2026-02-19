@@ -87,7 +87,7 @@ img {
   }
 }
 
-.xp {
+#desk {
   font-family: "Lato", sans-serif;
   background-color: white;
   width: 50%;
@@ -97,7 +97,27 @@ img {
   border-radius: 10px;
 }
 
-.projects {
+#dunks {
+  font-family: "Lato", sans-serif;
+  background-color: white;
+  width: 50%;
+  margin: 10px auto;
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.dash {
+  font-family: "Lato", sans-serif;
+  background-color: white;
+  width: 50%;
+  margin: 10px auto;
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.detector {
   font-family: "Lato", sans-serif;
   background-color: white;
   width: 50%;
