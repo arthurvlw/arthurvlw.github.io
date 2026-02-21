@@ -152,21 +152,12 @@ img {
   height: 42px;
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) {
   .information,
-  .contact-info,
-  .navigation,
   .dash,
-  .dash:hover,
-  .detector:hover,
   .detector,
-  #email,
-  #linkedin,
-  #git,
-  #desk:hover,
-  #dunks:hover,
-  #desk {
-    background-color: white;
-    color: #e5eaf5;
+  #desk,
+  #dunks {
+    font-size: 18px;
   }
 }
